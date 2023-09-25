@@ -1,5 +1,5 @@
 name: kma
-description: 기상청 데이터 조회 서비스 라이브러리
+description: A starting point for Dart libraries or applications.
 version: 1.0.0
 
 environment:
